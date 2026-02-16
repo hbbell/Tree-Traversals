@@ -1,7 +1,8 @@
 /**
  * This program makes a tree of generics, then runs different traversals on the tree
  * @author Hannah Bell
- * Last Modified: 2/16/26
+ * Last Modified: 4/14/25
+ * CS1122 Final Program: TreeMart
  */
 
 import java.util.ArrayList;
